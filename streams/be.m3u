@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AB3.be@HD",AB3 HD
-https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 tvg-id="ACTV.be@SD",ACTV [Geo-blocked]
 https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
 #EXTINF:-1 tvg-id="ATV.be@SD",ATV (1080p)

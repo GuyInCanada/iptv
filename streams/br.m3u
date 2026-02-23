@@ -119,16 +119,12 @@ https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br@SD",RBATV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD",Record
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p) [Geo-blocked]
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD",Record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
-#EXTINF:-1 tvg-id="RecordNews.br@SD",Record News
-https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 #EXTINF:-1 tvg-id="RecordTVBelem.br@SD",Record TV Belem (720p) [Geo-blocked]
 https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVBrasilia.br@SD",Record TV Brasilia (720p) [Geo-blocked]
