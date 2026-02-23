@@ -129,3 +129,5 @@ https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc109/wphdr
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.m3u8
 #EXTINF:-1 tvg-id="TVToya.pl@SD",TV Toya (720p) [Geo-blocked]
 https://cdn-14-go.toya.net.pl/drm/001_toyahd/manifest.mpd
+#EXTINF:-1 tvg-id="TVPSport.pl@SD",TVP Sport (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd

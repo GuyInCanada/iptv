@@ -404,3 +404,5 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
 #EXTINF:-1 tvg-id="zenith.fr@HD",zenith
 https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr@enclair",Canal+ en clair (720p) [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd

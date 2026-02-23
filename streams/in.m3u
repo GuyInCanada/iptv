@@ -607,8 +607,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b1
 https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD",Sana Plus (1080p) [Not 24/7]
 https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 tvg-id="SanaTV.in@SD",Sana TV (1080p) [Not 24/7]
-https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in@SD",Sandesh News (1080p)
 https://dkshlpp7ugzua.cloudfront.net/sandeshnews/index.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in@SD",Sansad TV 1 (1080p) [Not 24/7]
@@ -997,3 +995,5 @@ http://103.99.249.139/zeecinema/index.m3u8
 http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in@SD",PMC Telugu (1080p)
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+#EXTINF:-1 tvg-id="JayaPlus.in@SD",Jaya Plus (576p)
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8

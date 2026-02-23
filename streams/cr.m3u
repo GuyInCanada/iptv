@@ -70,8 +70,6 @@ http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD",Radio Turrialba TV Sports (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html
 https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD",Radio Turrialba TV Sports (576p) [Not 24/7]
-https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD",Retrox TV (576p) [Not 24/7]
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-id="RTTV.cr@SD",RTTV (720p) [Not 24/7]
@@ -136,3 +134,8 @@ https://acceso.radiosportstv.online:3022/stream/play.m3u8
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD",Retrox TV (720p) [Not 24/7]
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
+#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr@SD",Radio Turrialba TV Sports (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html
+https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BestClasicosTV.cr@SD",BestClasicosTV (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8
