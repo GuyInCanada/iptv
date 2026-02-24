@@ -371,3 +371,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 http://175.158.57.130:8888/stream/channelid/191534731
 #EXTINF:-1 tvg-id="WesalTV.id@SD",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD",Astro Blitar TV (720p)
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8

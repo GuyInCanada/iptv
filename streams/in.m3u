@@ -997,3 +997,5 @@ http://103.99.249.139/stargold/index.m3u8
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #EXTINF:-1 tvg-id="JayaPlus.in@SD",Jaya Plus (576p)
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in@SD",Ultimate TV (576p)
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8

@@ -1202,3 +1202,25 @@ https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhueb
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwht95XgI8UhySeZgp7szKj3V/m3u8
 #EXTINF:-1 tvg-id="KUVNDT1.us@SD",KUVN-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional
+http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
+#EXTINF:-1 tvg-id="WSCVDT1.us@SD",WSCV-DT1
+http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel Latin America
+http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
+#EXTINF:-1 tvg-id="WNJUDT1.us@SD",WNJU-DT1
+https://moviezona593.com:8443/play/E3uopSwsAKpadqYs1Av4lwlP73vRcQvVo1k-yDXv27Y/m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV
+https://dvrfl04.tulix.tv/teleup-comedytv/mpegts
+#EXTINF:-1 tvg-id="JusticeCentralTV.us@SD",Justice Central TV
+https://dvrfl04.tulix.tv/teleup-justice/mpegts
+#EXTINF:-1 tvg-id="WXXADT3.us@SD",WXXA-DT3
+https://dvrfl04.tulix.tv/teleup-laff/mpegts
+#EXTINF:-1 tvg-id="CarsTV.us@SD",Cars.TV
+https://dvrfl04.tulix.tv/teleup-carstv/mpegts
+#EXTINF:-1 tvg-id="Pasiones.us@SD",Pasiones
+https://dvrfl04.tulix.tv/teleup-pasiones/mpegts
+#EXTINF:-1 tvg-id="DraftKingsNetwork.us@SD",DraftKings Network
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel
+http://104.255.88.155:80/disney/playlist.m3u8

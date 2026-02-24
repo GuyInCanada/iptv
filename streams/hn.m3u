@@ -137,3 +137,5 @@ https://amixtv.live:3395/live/unetvlive.m3u8
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="GirasolTV.hn@SD",Girasol TV (1080i)
 https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-id="TSi.hn@SD",TSi
+http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
