@@ -590,3 +590,5 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 #EXTINF:-1 tvg-id="XPTVUS.es@SD",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@HD",TVE Internacional Europe-Asia HD (1080p)
+https://siarlive.psce.pw/channel5

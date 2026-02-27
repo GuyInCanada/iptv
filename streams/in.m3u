@@ -778,8 +778,6 @@ http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8
 http://15.235.144.106:14055
 #EXTINF:-1 tvg-id="SunNeo.in@SD",Sun Neo (576p)
 http://163.61.227.29:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="SunTV.in@SD",Sun TV (576p)
-http://103.229.254.25:7001/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="SunTV.in@HD",Sun TV HD (720p)
 http://15.235.144.106:14054
 #EXTINF:-1 tvg-id="SunTV.in@HD",Sun TV HD (360p)
