@@ -41,7 +41,7 @@ http://31.148.48.15/Illusion_plus/index.m3u8
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD",История
 http://31.148.48.15/Istoriya/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@HD",Карусель
+#EXTINF:-1 tvg-id="Carousel.ru@SD",Carousel
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="KVNTV.ru@SD",КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
@@ -49,7 +49,7 @@ http://31.148.48.15/KVN_TV/index.m3u8
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="KukhnyaTV.ru@SD",Кухня ТВ
 http://31.148.48.15/Kuhnya_TV/index.m3u8
-#EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD",Match! Strana
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
