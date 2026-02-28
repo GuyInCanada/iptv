@@ -109,7 +109,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it@SD",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
-#EXTINF:-1 tvg-id="Nitro.de",Nitro TV
+#EXTINF:-1 tvg-id="",Nitro TV
 https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="",Outer Vision
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8
