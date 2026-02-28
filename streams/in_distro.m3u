@@ -347,7 +347,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/0HQB0C0B3JRT3U7C103F/hls3/now,-1m/m.m3u8?ads.vf=NvK8r3j3abC
 #EXTINF:-1 tvg-id="",Rockola Television
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8?ads.vf=oWowMqZnLZy
-#EXTINF:-1 tvg-id="ROITV.yt",ROI TV
+#EXTINF:-1 tvg-id="",ROI TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/roi-tv/master.m3u8?ads.vf=xQuyqViwLju
 #EXTINF:-1 tvg-id="RongeenTV.in@SD",Rongeen Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=g9SHTs_gUKa
