@@ -81,7 +81,7 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Fork & Flight
 https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.mx",FOX Sports [Geo-blocked]
+#EXTINF:-1 tvg-id="",FOX Sports [Geo-blocked]
 https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us@SD",Fox Weather
 https://foxweather-xumo.amagi.tv/playlist.m3u8
