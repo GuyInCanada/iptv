@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TravelTV.es",4K Travel TV
+#EXTINF:-1 tvg-id="",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="",Ace TV
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
