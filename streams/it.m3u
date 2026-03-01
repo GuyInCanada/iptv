@@ -293,22 +293,32 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-id="Rai4K.it@SD",RAI 4K [Geo-blocked]
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
+http://78.130.250.2:8023/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (1080p)
+http://78.130.250.2:8023/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiMovie.it@SD",Rai Movie (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-id="RaiNews24.it@SD",Rai News 24 (1080p)
+http://78.130.250.2:8023/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@SD",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiPremium.it@SD",Rai Premium (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p)
+http://78.130.250.2:8023/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-id="",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it@SD",Rai Storia (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai Yoyo (1080p)
+http://78.130.250.2:8023/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai YoYo (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1 tvg-id="RDSSocialTV.it@SD",RDS Social TV (720p)
@@ -561,13 +571,3 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 #EXTINF:-1 tvg-id="WeddingTV.it@SD",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai Yoyo (1080p)
-http://78.130.250.2:8023/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p)
-http://78.130.250.2:8023/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it@SD",Rai News 24 (1080p)
-http://78.130.250.2:8023/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (1080p)
-http://78.130.250.2:8023/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a04o/index.m3u8

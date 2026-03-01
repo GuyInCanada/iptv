@@ -133,7 +133,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/PB75VYPS2NI9IEB7I7T1/hls3/now
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8?ads.vf=1tb_53Uj-0K
 #EXTINF:-1 tvg-id="",Dot Esports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8?ads.vf=ZalKxWcT4LO
-#EXTINF:-1 tvg-id="DroneTV.us",DroneTV
+#EXTINF:-1 tvg-id="DroneTV.us@SD",DroneTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=hSBeWdMc_Oi
 #EXTINF:-1 tvg-id="",Elevation Church Network
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/elevation-church-network/playlist.m3u8?ads.vf=mifWkv8cNHC
@@ -451,7 +451,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8?ads.vf=DWL0yMp640W
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD",TV9 Telugu
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-telugu/main.m3u8?ads.vf=9T7faNl3hra
-#EXTINF:-1 tvg-id="TVPunjab.ca",TV Punjab
+#EXTINF:-1 tvg-id="TVPunjab.ca@SD",TV Punjab
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=FKWvIiyQPz8
 #EXTINF:-1 tvg-id="",UnchainedTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/unchainedtv/master.m3u8?ads.vf=oN5x7DD1jIe

@@ -7,6 +7,12 @@ https://video1.in-news.ru/360/index.m3u8
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="DTRMusic1.ru@HD",DTR Music 1 (720p)
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
+#EXTINF:-1 tvg-id="DTRZona1.ru@HD",DTR Zona 1 (720p)
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 tvg-id="DTRZona2.ru@HD",DTR Zona 2 (720p)
+https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru@SD",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru@SD",MMA-TV.com
@@ -227,9 +233,3 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru@SD",Ювелирочка ТВ (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-id="DTRMusic1.ru@HD",DTR Music 1 (720p)
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:-1 tvg-id="DTRZona2.ru@HD",DTR Zona 2 (720p)
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-id="DTRZona1.ru@HD",DTR Zona 1 (720p)
-https://kino-stream.online/hls/DTRZONA1.m3u8

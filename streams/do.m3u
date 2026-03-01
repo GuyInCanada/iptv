@@ -90,6 +90,8 @@ https://mlb.essastream.com:8081/citricotv/playlist.m3u8
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-id="ClaroVisionTV.do@SD",Claro Visión TV (720p)
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-id="CNTMasTV.do@HD",CNT Mas TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/cntmas/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do@SD",COCO TV (1080p) [Not 24/7]
 https://mlb.essastream.com:8081/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do@SD",COCO TV (1080p) [Not 24/7]
@@ -193,6 +195,8 @@ https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 #EXTINF:-1 tvg-id="JPDTV.do@HD",JPD TV [Not 24/7]
 https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD",Junior Technologia TV (1080p) [Not 24/7]
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="LaCaletaTV.do@SD",La Caleta TV (720p) [Not 24/7]
 https://mlb.essastream.com:8081/lacaletatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD",La Descarga TV [Geo-blocked]
@@ -498,7 +502,3 @@ https://tele-stream.telecasa.net:8080/play/yunavision-hd/index.m3u8
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZonavisionTV.do@SD",Zonavision TV [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD",Junior Technologia TV (1080p) [Not 24/7]
-https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
-#EXTINF:-1 tvg-id="CNTMasTV.do@HD",CNT Mas TV (720p) [Not 24/7]
-https://mlb.essastream.com:8081/cntmas/playlist.m3u8

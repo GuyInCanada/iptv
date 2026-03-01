@@ -285,7 +285,7 @@ https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/maste
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
 #EXTINF:-1 tvg-id="",Todo Novelas más Pasiones (1080p)
 https://aegis-cloudfront-1.tubi.video/36a6c30a-f42c-41db-a5de-106a9b067638/playlist.m3u8
-#EXTINF:-1 tvg-id="TopGear.uk",Top Gear (720p)
+#EXTINF:-1 tvg-id="TopGear.uk@SD",Top Gear (720p)
 https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
 #EXTINF:-1 tvg-id="",Top Rank Classics (1080p)
 https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playlist.m3u8

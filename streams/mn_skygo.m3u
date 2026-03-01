@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV4.mn@SD",TV4 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
-#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang (720p)
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD",Arirang (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
 #EXTINF:-1 tvg-id="AsianBox.mn@SD",AsianBox (1080p)
@@ -26,15 +23,15 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific",BBC News Asia Pacific (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV Plus (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD",Bloomberg TV Mongolia HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD",Bloomberg TV Mongolia HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus",Bloomberg TV Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
 #EXTINF:-1 tvg-id="C1.mn@SD",C1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
@@ -65,7 +62,7 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-id="Cinema.mn@SD",Cinema (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
-#EXTINF:-1 tvg-id="Cinema.mn",Cinema
+#EXTINF:-1 tvg-id="Cinema.mn@SD",Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 #EXTINF:-1 tvg-id="",CNBC MGL (1080p)
@@ -107,7 +104,7 @@ https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.mn@SD",Global TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
-#EXTINF:-1 tvg-id="GlobalTV.mn",Global TV
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD",Global TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
 #EXTINF:-1 tvg-id="LotusTV.mo@SD",Lotus Macau HD (1080p)
@@ -169,13 +166,13 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn@SD",MovieBox (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-#EXTINF:-1 tvg-id="NeiMonggolTV.cn",Nei Monggol TV
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD",Nei Monggol TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD",NHK World Premium (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #EXTINF:-1 tvg-id="NTV.mn@SD",NTV (1080p)
@@ -232,7 +229,10 @@ https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
 #EXTINF:-1 tvg-id="TMTV.mn@SD",TM TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
-#EXTINF:-1 tvg-id="TV4.mn",TV 4
+#EXTINF:-1 tvg-id="TV4.mn@SD",TV4 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
+#EXTINF:-1 tvg-id="TV4.mn@SD",TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/TV4/HLSv3-FTA/TV4.m3u8
 #EXTINF:-1 tvg-id="TV5.mn@SD",TV5 (720p)
