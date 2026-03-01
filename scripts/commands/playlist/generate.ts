@@ -40,9 +40,6 @@ async function main() {
   logger.info('generating raw/...')
   await new RawGenerator({ streams, logFile }).generate()
 
-  logger.info('filtering streams...')
-  streams = streams.uniqBy((stream: Stream) => stream.getId() || uniqueId())
-
   logger.info('sorting streams...')
   streams = streams.sortBy(
     [
@@ -50,8 +47,11 @@ async function main() {
       (stream: Stream) => stream.getVerticalResolution(),
       (stream: Stream) => stream.label
     ],
-    ['asc', 'asc', 'desc']
+    ['asc', 'desc', 'desc']
   )
+
+  logger.info('filtering streams...')
+  streams = streams.uniqBy((stream: Stream) => stream.getId() || uniqueId())
 
   const { categories, countries, subdivisions, cities, regions } = data
 
