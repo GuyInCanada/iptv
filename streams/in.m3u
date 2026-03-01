@@ -1029,3 +1029,5 @@ http://103.113.103.202:8001/play/a017/index.m3u8
 http://103.113.103.202:8001/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="B4UHitz.in@SD",B4U Hitz (576p)
 http://115.42.65.142:9981/stream/channelid/1099703605
+#EXTINF:-1 tvg-id="SanaPlus.in@SD",Sana Plus (1080p)
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
