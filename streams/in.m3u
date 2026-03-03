@@ -1143,3 +1143,11 @@ http://111.88.78.21:8000/play/a0z4/index.m3u8
 http://111.88.78.21:8000/play/a0zk/index.m3u8
 #EXTINF:-1 tvg-id="Asianet.in@HD",Asianet HD (1080p)
 http://111.88.78.21:8000/play/a0pf/index.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD",Oli TV (1080p)
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="MaxMusic.in@HD",Max Music (1080p)
+https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
+#EXTINF:-1 tvg-id="MaxMovies.in@HD",Max Movies (1080p)
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
