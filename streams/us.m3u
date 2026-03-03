@@ -328,8 +328,6 @@ http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 https://elec-en.otteravision.com/elec/en/elec_en.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us@SD",Entertainment Tonight (1080p)
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD",ESPN 8: The Ocho
-https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (360p)
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-id="",Everyday Refresh
@@ -758,10 +756,6 @@ https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlis
 https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
 #EXTINF:-1 tvg-id="RadioMensajeTV.us@SD",RadioMensaje TV (720p)
 https://eu1.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD",Real America's Voice (720p)
-https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-#EXTINF:-1 tvg-id="RealAmericasVoice.us@SD",Real America's Voice (720p)
-https://jmp2.uk/stvp-USBB1900002KF
 #EXTINF:-1 tvg-id="RetroCrush.us@SD",RetroCrush (1080p)
 https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us@SD",Reuters TV (1080p) [Geo-blocked]
@@ -875,8 +869,6 @@ https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/play
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us@SD",The First TV (1080p)
 https://thefirst-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheHillTV.us@SD",The Hill TV (1080p)
-https://jmp2.uk/stvp-US3300008FX
 #EXTINF:-1 tvg-id="WYPLTV18.us@SD",The Library Channel TV18 (360p)
 https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="TheNest.us@SD",The Nest
