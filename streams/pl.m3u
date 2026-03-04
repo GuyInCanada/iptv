@@ -81,10 +81,6 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-id="TVKujawy.pl@SD",TV Kujawy (576p) [Not 24/7]
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="TVMazowsze.pl@SD",TV Mazowsze (1080i)
-http://stream.tvmazowsze.pl:5920/tmp_hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVMazowsze.pl@SD",TV Mazowsze (1080p)
-https://stream2.tvmazowsze.pl/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVOkazje.pl@SD",TV Okazje (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 #EXTINF:-1 tvg-id="TVPuls.pl@SD",TV Puls (1080p)

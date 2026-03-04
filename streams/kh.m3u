@@ -11,8 +11,6 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh@SD",CTV 9 (1080p)
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh@SD",CTV 9
-https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 tvg-id="DMusic.kh@SD",D Music (1280p) [Not 24/7]
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="EACNewsTV.kh@SD",EAC News TV (720p)
@@ -75,3 +73,7 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh@SD",WIKI TV (720p)
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NiceTV.kh@SD",Nice TV (1080p)
+http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
+#EXTINF:-1 tvg-id="ARDBTV.kh@SD",ARDB TV (1080p) [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8

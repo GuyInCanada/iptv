@@ -205,8 +205,6 @@ https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 http://103.229.254.25:7001/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (720p)
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
 http://103.182.170.32:8888/play/a01o
 #EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
@@ -1151,3 +1149,11 @@ https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 tvg-id="KairaliArabia.in@SD",Kairali Arabia (576p)
 https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (720p)
+http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
+http://103.161.153.165:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="SuperHungama.in@SD",Super Hungama (576p)
+http://103.161.153.165:8000/play/a05a/index.m3u8
