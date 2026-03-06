@@ -12,7 +12,6 @@ https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/in
 #EXTINF:-1 tvg-id="PSMNews.mv@SD",PSM News
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
 #EXTINF:-1 tvg-id="RaajjeTV.mv@SD",Raajje TV
-# NOTE: Raajje TV stream currently proxied via external Cloudflare Worker (raajjetv.yarr-myn.workers.dev), maintainer unknown; prefer an official/origin URL or a project-controlled proxy when available.
 https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 #EXTINF:-1 tvg-id="SSTV.mv@SD",SSTV (1080p)
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
@@ -24,3 +23,4 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
 #EXTINF:-1 tvg-id="YES.mv@SD",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+
