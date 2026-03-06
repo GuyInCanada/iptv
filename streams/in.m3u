@@ -252,6 +252,9 @@ https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVTelugu.in@HD",ETV Telugu HD (1080p)
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
+#EXTINF:-1 tvg-id="ETVTelugu.in@USA",ETV Telugu USA (720p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV [Not 24/7]
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD",Filamchi Bhojpuri (1080p)
@@ -782,7 +785,7 @@ http://15.235.144.106:14054
 http://198.27.83.207:2550/SUN_TV_SD/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1 tvg-id="SuryaTV.in@HD",Surya TV (1080p)
+#EXTINF:-1 tvg-id="SuryaTV.in@HD",Surya TV HD (1080p)
 http://103.229.254.25:7001/play/a0dq/index.m3u8
 #EXTINF:-1 tvg-id="SuryaTV.in@HD",Surya TV HD (1080p)
 https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
@@ -918,7 +921,7 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@SD",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD",Zee Bangla Sonar (576p)
-http://103.229.254.25:7001/play/a070/index.m3u8
+http://103.161.153.165:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBharat.in@SD",Zee Bharat (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD",Zee Bihar Jharkhand (720p)
@@ -1034,7 +1037,7 @@ http://111.88.78.21:8000/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@HD",Star Sports 1 Tamil HD (1080p)
 http://111.88.78.21:8000/play/a0to/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@HD",Star Pravah HD (1080p)
-http://111.88.78.21:8000/play/a0rq/index.m3u8
+http://103.229.254.25:7001/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="StarKiran.in@SD",Star Kiran (576p)
 http://111.88.78.21:8000/play/a0ph/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@HD",Star Maa HD (1080p)
@@ -1087,11 +1090,5 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 tvg-id="MaxMovies.in@HD",Max Movies (1080p)
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (720p)
-http://103.161.153.165:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
 http://103.161.153.165:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in@SD",Super Hungama (576p)
-http://103.161.153.165:8000/play/a05a/index.m3u8
