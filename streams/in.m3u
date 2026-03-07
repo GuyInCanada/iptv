@@ -442,8 +442,6 @@ http://116.90.120.128:8000/play/a0i6/index.m3u88
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p)
 http://116.90.120.128:8000/play/a0i4/index.m3u88
-#EXTINF:-1 tvg-id="MunsifTV.in@SD",Munsif TV (720p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in@SD",Namdhari (404p) [Not 24/7]
 https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 tvg-id="NandighoshaTV.in@SD",Nandighosha TV (720p)
@@ -562,8 +560,6 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in@SD",Power TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://powertvkannada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PrameyaNews7.in@SD",Prameya News7 (1080p) [Not 24/7]
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv
 #EXTINF:-1 tvg-id="PrarthanaTV.in@SD",Prarthana TV (720p)
 https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PrathamKhabar24x7.in@SD",Pratham Khabar 24x7 (576p)
@@ -1112,4 +1108,3 @@ https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 http://103.161.153.165:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in@SD",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-
