@@ -751,6 +751,24 @@ http://103.121.6.5:8000/play/a063/index.m3u8
 http://103.113.103.202:8001/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
 http://103.113.103.202:8001/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD",Star Sports 1 HD (1080p)
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@SD",Star Sports 1 Hindi (576p)
+http://161.248.38.40:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD",Star Sports 1 Hindi HD (1080p)
+http://161.248.38.40:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@HD",Star Sports 2 HD (1080p)
+http://103.121.6.5:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (1080p)
+http://103.113.103.202:8001/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@HD",Star Sports 2 Hindi HD (480p)
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD",Star Sports 2 Tamil (576p)
+http://103.229.254.25:7001/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@HD",Star Sports 2 Tamil HD (1080p)
+http://103.229.254.25:7001/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD",Star Sports 3 (576p)
+http://103.121.6.5:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@HD",Star Sports Select 1 HD (1080p)
 http://103.113.103.202:8001/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@HD",Star Sports Select 2 HD (1080p)
@@ -1094,3 +1112,4 @@ https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 http://103.161.153.165:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in@SD",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+
