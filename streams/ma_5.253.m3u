@@ -18,17 +18,17 @@ http://5.253.46.190:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma@HD",Arryadia HD (1080p)
 http://5.253.46.190:8000/play/a0bi/index.m3u8
 #EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD",Arryadia HD1 (1080p)
-http://5.253.46.190:8000/play/a0dr/index.m3u8
-#EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD",Arryadia HD1 (1080p)
 http://5.253.46.190:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD",Arryadia HD1 (1080p)
+http://5.253.46.190:8000/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma@SD",Assadisa (576p)
 http://5.253.46.190:8000/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma@HD",Assadissa HD (1080p)
 http://5.253.46.190:8000/play/a0ag/index.m3u8
-#EXTINF:-1 tvg-id="Athaqafia.ma@SD",Athaqafia (576p)
-http://5.253.46.190:8000/play/a0eb/index.m3u8
 #EXTINF:-1 tvg-id="Athaqafia.ma@HD",Athaqafia (1080p)
 http://5.253.46.190:8000/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="Athaqafia.ma@SD",Athaqafia (576p)
+http://5.253.46.190:8000/play/a0eb/index.m3u8
 #EXTINF:-1 tvg-id="LaayouneTV.ma@SD",Laayoune TV (576p)
 http://5.253.46.190:8000/play/a0eg/index.m3u8
 #EXTINF:-1 tvg-id="LaayouneTV.ma@HD",Laayoune TV HD (1080p)
