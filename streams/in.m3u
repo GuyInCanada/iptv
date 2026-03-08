@@ -1155,3 +1155,173 @@ http://103.161.153.165:8000/play/a00w/index.m3u8
 http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in@SD",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD",Sony Marathi (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD",Sony BBC Earth HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0371/master.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@SD",Sony BBC Earth (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0384/master.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0368/master.m3u8
+#EXTINF:-1 tvg-id="Sonic.in@SD",Sonic (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0407/master.m3u8
+#EXTINF:-1 tvg-id="SohamTV.in@SD",Soham TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0146/master.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0362/master.m3u8
+#EXTINF:-1 tvg-id="RomedyNow.in@SD",Romedy Now (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0091/master.m3u8
+#EXTINF:-1 tvg-id="PudhariNews.in@SD",Pudhari News (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0176/master.m3u8
+#EXTINF:-1 tvg-id="PravahPicture.in@HD",Pravah Picture HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0455/master.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD",Nick Jr. (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD",Nick HD+ (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0450/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD",Nickelodeon (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0405/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD",National Geographic HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0447/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@SD",National Geographic (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD",National Geographic Wild HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0448/master.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@SD",National Geographic Wild (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0428/master.m3u8
+#EXTINF:-1 tvg-id="MTV.in@SD",MTV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0397/master.m3u8
+#EXTINF:-1 tvg-id="MTV.in@HD",MTV HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
+#EXTINF:-1 tvg-id="MNX.in@HD",MNX HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
+#EXTINF:-1 tvg-id="MNX.in@SD",MNX (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in@HD",Movies Now HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
+#EXTINF:-1 tvg-id="MoviesNowPlus.in@SD",Movies Now + (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0112/master.m3u8
+#EXTINF:-1 tvg-id="KushiTV.in@SD",Kushi TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0583/master.m3u8
+#EXTINF:-1 tvg-id="KochuTV.in@SD",Kochu TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0564/master.m3u8
+#EXTINF:-1 tvg-id="SirippoliTV.in@SD",Sirippoli TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0318/master.m3u8
+#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD",Kalaignar Murasu (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0320/master.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in@SD",Isai Aruvi (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0317/master.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in@SD",Kalaignar TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0316/master.m3u8
+#EXTINF:-1 tvg-id="KTV.in@HD",KTV HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0591/master.m3u8
+#EXTINF:-1 tvg-id="KTV.in@SD",KTV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0575/master.m3u8
+#EXTINF:-1 tvg-id="JMovie.in@SD",J Movie (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0314/master.m3u8
+#EXTINF:-1 tvg-id="JayaMax.in@SD",Jaya Max (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0313/master.m3u8
+#EXTINF:-1 tvg-id="JayaTV.in@HD",Jaya TV (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0400/master.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in@SD",Hungama TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD",History TV18 HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@SD",History TV18 (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
+#EXTINF:-1 tvg-id="GeminiTV.in@SD",Gemini TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8
+#EXTINF:-1 tvg-id="GeminiMusic.in@SD",Gemini Music SD (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8
+#EXTINF:-1 tvg-id="GeminiMovies.in@SD",Gemini Movies (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8
+#EXTINF:-1 tvg-id="GeminiLife.in@SD",Gemini Life (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0584/master.m3u8
+#EXTINF:-1 tvg-id="GeminiComedy.in@SD",Gemini Comedy (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
+#EXTINF:-1 tvg-id="ETVBalBharat.in@SD",ETV Bal Bharat (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@HD",DD Tamil HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0593/master.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in@HD",DD Sahyadri HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0341/master.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@SD",DD National SD (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0065/master.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
+#EXTINF:-1 tvg-id="Colors.in@SD",Colors (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0387/master.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD",Colors Tamil HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0459/master.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in@SD",Colors Tamil (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0471/master.m3u8
+#EXTINF:-1 tvg-id="ColorsSuper.in@SD",Colors Super (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0484/master.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD",Colors Rishtey Asia (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0323/master.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in@HD",Colors Marathi HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0454/master.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in@SD",Colors Marathi (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0467/master.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in@HD",Colors Kannada HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0456/master.m3u8
+#EXTINF:-1 tvg-id="ColorsKannadaCinema.in@SD",Colors Kannada Cinema (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0485/master.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in@SD",Colors Kannada (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0482/master.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@HD",Colors Infinity HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in@SD",Colors Infinity (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0402/master.m3u8
+#EXTINF:-1 tvg-id="ColorsGujaratiCinema.in@SD",Colors Gujarati Cinema (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0492/master.m3u8
+#EXTINF:-1 tvg-id="ColorsGujarati.in@SD",Colors Gujarati (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0491/master.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD",Colors Cineplex Superhits (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0394/master.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0435/master.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0393/master.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@SD",Colors Cineplex (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0392/master.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD",Colors Bangla HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0458/master.m3u8
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in@SD",Colors Bangla Cinema (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0069/master.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@SD",Colors Bangla (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0464/master.m3u8
+#EXTINF:-1 tvg-id="ChuttiTV.in@SD",Chutti TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0572/master.m3u8
+#EXTINF:-1 tvg-id="ChintuTV.in@SD",Chintu TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0587/master.m3u8
+#EXTINF:-1 tvg-id="AsianetPlus.in@SD",Asianet Plus (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0475/master.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in@SD",Asianet Movies (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0476/master.m3u8
+#EXTINF:-1 tvg-id="Asianet.in@SD",Asianet (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8
+#EXTINF:-1 tvg-id="AnmolTV.in@SD",Anmol TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0520/master.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema2.in@SD",Anmol Cinema 2 (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0541/master.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD",Anmol Cinema (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0549/master.m3u8
+#EXTINF:-1 tvg-id="AdithyaTV.in@SD",Adithya TV (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0571/master.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in@HD",&xplor HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0556/master.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures HD (1080p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@SD",&pictures (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0521/master.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@HD",&flix HD (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@SD",&flix (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0523/master.m3u8
