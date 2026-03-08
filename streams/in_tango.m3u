@@ -7,6 +7,8 @@ https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 https://mumt03.tangotv.in/9XJALWA/index.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (576p)
 https://mumt01.tangotv.in/AADINATHTV/index.m3u8
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="",Anandam Abi TV
@@ -59,6 +61,8 @@ https://mumt04.tangotv.in/CVRNEWS/index.m3u8
 https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="Dabangg.in@SD",Dabangg (576p)
 https://mumt01.tangotv.in/DABANGG/index.m3u8
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="Darshan24.in@SD",Darshan 24 (576p)
 https://mumt05.tangotv.in/DARSHAN24/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam (576p)
@@ -197,6 +201,8 @@ https://mumt03.tangotv.in/JINVANI/index.m3u8
 https://mumt03.tangotv.in/JOSHTV/index.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in@SD",K News India (576p)
 https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD",Kairali Arabia (576p)
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in@SD",Kairali News (576p)
 https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in@SD",Kairali TV (576p)
@@ -311,6 +317,8 @@ https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 https://mumt01.tangotv.in/SINDHTV/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+#EXTINF:-1 tvg-id="StudioYuva.in@SD",Studio Yuva (576p)
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
 #EXTINF:-1 tvg-id="",Tadka
 https://mumt03.tangotv.in/TADKA/index.m3u8
 #EXTINF:-1 tvg-id="ThanthiOne.in@SD",Thanthi One (576p)
