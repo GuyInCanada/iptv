@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BerbereTV.fr@SD",Berbere TV (1080p)
+http://5.253.46.190:8000/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-id="ChebabTV.dz@SD",Chebab TV (576p)
+http://5.253.46.190:8000/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-id="TV1.dz@SD",TV1 Algerian Television (1080p)
+http://5.253.46.190:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-id="TV2.dz@SD",TV2 Canal Algérie (1080p)
+http://5.253.46.190:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-id="TV4.dz@SD",TV4 Tamazight TV (576p)
+http://5.253.46.190:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="TV4.dz@SD",TV5 Coran (576p)
+http://5.253.46.190:8000/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id="TV6.dz@SD",TV6 El-Chebabia (1080p)
+http://5.253.46.190:8000/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id="TV7.dz@SD",TV7 El-Maarifa (576p)
+http://5.253.46.190:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id="TV8.dz@SD",TV8 El-Dhakira (576p)
+http://5.253.46.190:8000/play/a0er/index.m3u8
+#EXTINF:-1 tvg-id="TV9.dz@SD",TV9 El-Barlamaniya (1080p)
+http://5.253.46.190:8000/play/a0es/index.m3u8
