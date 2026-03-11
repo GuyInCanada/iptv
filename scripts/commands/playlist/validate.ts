@@ -3,6 +3,7 @@ import { Storage } from '@freearhey/storage-js'
 import { PlaylistParser } from '../../core'
 import { data, loadData } from '../../api'
 import { ROOT_DIR } from '../../constants'
+import { isURI } from '../../utils.js'
 import { Stream } from '../../models'
 import * as sdk from '@iptv-org/sdk'
 import { program } from 'commander'
@@ -61,6 +62,14 @@ async function main() {
         })
       } else {
         buffer.set(stream.url, true)
+      }
+
+      if (!isURI(stream.url)) {
+        log.add({
+          type: 'error',
+          line: stream.getLine(),
+          message: `"${stream.url}" is not a valid URL`
+        })
       }
 
       if (stream.channel) {
