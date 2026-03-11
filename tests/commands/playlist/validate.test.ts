@@ -38,6 +38,20 @@ describe('playlist:validate', () => {
     }
   })
 
+  it('show a error if stream has an invalid url', () => {
+    const cmd = `${ENV_VAR} npm run playlist:validate -- invalid_url.m3u`
+    try {
+      execSync(cmd, { encoding: 'utf8' })
+    } catch (error) {
+      if (process.env.DEBUG === 'true') console.log(cmd, error)
+      expect((error as ExecError).stdout).toContain('invalid_url.m3u')
+      expect((error as ExecError).stdout).toContain(
+        '2     error    "new: https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8" is not a valid URL'
+      )
+      expect((error as ExecError).stdout).toContain('1 problems (1 errors, 0 warnings)')
+    }
+  })
+
   it('skip the file if it does not exist', () => {
     const cmd = `${ENV_VAR} npm run playlist:validate -- missing.m3u`
     execSync(cmd, { encoding: 'utf8' })
