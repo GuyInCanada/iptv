@@ -588,5 +588,13 @@
     "country": "CA",
     "categories": [],
     "is_nsfw": false
+  },
+  {
+    "id": "Channel7.bz",
+    "name": "Channel 7",
+    "network": null,
+    "country": "BZ",
+    "categories": [],
+    "is_nsfw": false
   }
 ]
