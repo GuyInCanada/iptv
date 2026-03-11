@@ -19,11 +19,12 @@ describe('report:create', () => {
 │ 2       │ 14177       │ 'streams:add'    │ 'TUTV.us'                   │ 'https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8'          │ 'duplicate_link'     │
 │ 3       │ 14178       │ 'streams:add'    │ 'TV3.my'                    │ 'https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m...' │ 'channel_blocked'    │
 │ 4       │ 14179       │ 'streams:add'    │ 'ManoramaNews.in'           │ '(https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS / https://ssl.cloud.telefe.com/Api/Vid...' │ 'invalid_stream_url' │
-│ 5       │ 16120       │ 'streams:remove' │ undefined                   │ 'http://190.61.102.67:2000/play/a038/index.m3u8'                                                       │ 'nonexistent_link'   │
-│ 6       │ 19956       │ 'channel search' │ 'CNBCe.tr'                  │ undefined                                                                                              │ 'invalid_channel_id' │
-│ 7       │ 19957       │ 'channel search' │ '13thStreet.au'             │ undefined                                                                                              │ 'channel_closed'     │
-│ 8       │ 20956       │ 'channel search' │ 'IONTV.us'                  │ undefined                                                                                              │ 'fulfilled'          │
-│ 9       │ 25157       │ 'streams:add'    │ 'OnTimeSports.eg@SD'        │ 'OnTime Sports SD.mu38'                                                                                │ 'invalid_stream_url' │
+│ 5       │ 15175       │ 'streams:add'    │ 'Channel7.bz@SD'            │ 'new: https://streamer2.nexgen.bz/07-CHANNEL7/index.m3u8'                                              │ 'invalid_stream_url' │
+│ 6       │ 16120       │ 'streams:remove' │ undefined                   │ 'http://190.61.102.67:2000/play/a038/index.m3u8'                                                       │ 'nonexistent_link'   │
+│ 7       │ 19956       │ 'channel search' │ 'CNBCe.tr'                  │ undefined                                                                                              │ 'invalid_channel_id' │
+│ 8       │ 19957       │ 'channel search' │ '13thStreet.au'             │ undefined                                                                                              │ 'channel_closed'     │
+│ 9       │ 20956       │ 'channel search' │ 'IONTV.us'                  │ undefined                                                                                              │ 'fulfilled'          │
+│ 10      │ 25157       │ 'streams:add'    │ 'OnTimeSports.eg@SD'        │ 'OnTime Sports SD.mu38'                                                                                │ 'invalid_stream_url' │
 └─────────┴─────────────┴──────────────────┴─────────────────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────┴──────────────────────┘`)
     ).toBe(true)
   })
