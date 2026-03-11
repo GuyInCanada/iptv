@@ -225,8 +225,6 @@ https://selaparangtv.siar.us/live/selaparangtv.m3u8
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="Simpang5TV.id@SD",Simpang5 TV (360p) [Not 24/7]
 http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD",Sindo News TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p) [Not 24/7]
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p)
@@ -391,3 +389,19 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id@Jakarta",Stara TV Jakarta (1080p)
 #EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
 https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="VTV.id@SD",VTV (1080p)
+http://103.66.62.83:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="TVMu.id@SD",TV Mu
+https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
+#EXTINF:-1 tvg-id="TVMUI.id@SD",TV MUI
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF:-1 tvg-id="SindoNewsTV.id@SD",Sindo News TV
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#EXTINF:-1 tvg-id="SinPoTV.id@HD",Sin Po TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI.id@SD",RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@HD",RCTI HD (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-id="NabawiTV.id@SD",Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
