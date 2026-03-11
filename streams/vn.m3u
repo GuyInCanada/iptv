@@ -84,7 +84,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 #EXTINF:-1 tvg-id="SCTV1.vn@SD",SCTV1 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV2.vn@SD",SCTV2 (720p)
-ttps://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
+https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn@SD",SCTV4 (720p)
 https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8
 #EXTINF:-1 tvg-id="SCTV6.vn@SD",SCTV6 (1080p) [Geo-blocked]
