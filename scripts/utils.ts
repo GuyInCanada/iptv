@@ -2,8 +2,8 @@ import normalizeUrl from 'normalize-url'
 
 export function isURI(string: string): boolean {
   try {
-    new URL(string)
-    return true
+    const url = new URL(string)
+    return /^(http:|https:|mmsh:|rtsp:|rtmp:)/.test(url.protocol)
   } catch {
     return false
   }
