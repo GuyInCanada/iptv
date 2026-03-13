@@ -40,7 +40,8 @@ async function loadData() {
     blocklist
   } = dataManager.getProcessedData()
 
-  searchIndex = sdk.SearchEngine.createIndex<sdk.Models.Channel>(channels)
+  const searchableData = channels.map((channel: sdk.Models.Channel) => channel.getSearchable())
+  searchIndex = sdk.SearchEngine.createIndex<sdk.Types.ChannelSearchableData>(searchableData.all())
 
   data.categoriesKeyById = categories.keyBy((category: sdk.Models.Category) => category.id)
   data.countriesKeyByCode = countries.keyBy((country: sdk.Models.Country) => country.code)
