@@ -69,8 +69,8 @@ export default async function main(filepath: string) {
   }
 
   streamsWithoutId.forEach((stream: Stream) => {
-    if (stream.channel === '-') {
-      stream.channel = ''
+    if (stream.tvgId === '-') {
+      stream.tvgId = ''
     }
   })
 }
