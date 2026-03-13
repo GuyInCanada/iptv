@@ -1403,3 +1403,5 @@ https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax1.in@SD",Sony Max 1 (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
+#EXTINF:-1 tvg-id="AamarBangla.in@SD",Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8

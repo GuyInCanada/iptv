@@ -33,3 +33,11 @@ https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD",Ananda TV (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8
+#EXTINF:-1 tvg-id="ATNMusic.bd@SD",ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GreenTV.bd@SD",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD",RTV (480p)
+http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
+#EXTINF:-1 tvg-id="GaziTV.bd@SD",Gazi TV (1080p)
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8

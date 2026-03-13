@@ -498,9 +498,9 @@ https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-id="BonaoTV.do@SD",Bonao TV (720p) [Not 24/7]
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
-#EXTINF:-1 tvg-id="Televida.do@SD",Televida (1080p) [Not 24/7]
-https://cnn.hostlagarto.com:8081/televida/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.do@SD",Super Canal (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 #EXTINF:-1 tvg-id="EntunoTV.do@HD",Entuno TV (1080p) [Not 24/7]
 https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 tvg-id="Televida.do@SD",Televida (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/televida/playlist.m3u8

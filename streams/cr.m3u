@@ -139,3 +139,7 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-id="QuinceUCR.cr@SD",Quince UCR (720p) [Not 24/7]
+https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CartagoMediosTV.cr@SD",Cartago Medios TV (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
