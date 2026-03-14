@@ -972,8 +972,6 @@ https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TarangTV.in@SD",Tarang TV (720p)
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ThalaaTV.in@HD",Thalaa TV (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 #EXTINF:-1 tvg-id="TimeVisionNews.in@SD",Time Vision News (720p)
 http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
 #EXTINF:-1 tvg-id="TimesNow.in@SD",Times Now (720p) [Geo-blocked]
@@ -988,8 +986,6 @@ https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg014
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8
 #EXTINF:-1 tvg-id="TOIGlobal.in@SD",TOI Global (1080p)
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="TollyTV.in@HD",Tolly TV (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-id="TotalBhakti.in@SD",Total Bhakti (1080p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR",Travelxp 4K HDR (2160p) [Geo-blocked]
