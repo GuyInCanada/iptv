@@ -19,28 +19,39 @@ type LogItem = {
 
 async function main() {
   const logger = new Logger()
+  const rootStorage = new Storage(ROOT_DIR)
+  const parser = new PlaylistParser({
+    storage: rootStorage
+  })
 
   logger.info('loading data from api...')
   await loadData()
 
   logger.info('loading streams...')
-  const rootStorage = new Storage(ROOT_DIR)
-  const parser = new PlaylistParser({
-    storage: rootStorage
-  })
-  const files = program.args.length ? program.args : await rootStorage.list('streams/**/*.m3u')
+  const selectedFiles = program.args.length
+    ? program.args
+    : await rootStorage.list('streams/**/*.m3u')
+  const selectedStreams = await parser.parse(selectedFiles)
+  logger.info(`found ${selectedStreams.count()} streams`)
+
+  logger.info('creating buffer...')
+  const files = await rootStorage.list('streams/**/*.m3u')
   const streams = await parser.parse(files)
-  logger.info(`found ${streams.count()} streams`)
+  const buffer = new Dictionary<Stream>()
+  streams.forEach((stream: Stream) => {
+    if (!selectedFiles.includes(stream.filepath)) {
+      buffer.set(stream.url, stream)
+    }
+  })
 
   const errors = new Collection()
   const warnings = new Collection()
-  const streamsGroupedByFilepath = streams.groupBy((stream: Stream) => stream.getFilepath())
+  const streamsGroupedByFilepath = selectedStreams.groupBy((stream: Stream) => stream.getFilepath())
   for (const filepath of streamsGroupedByFilepath.keys()) {
     const streams = streamsGroupedByFilepath.get(filepath)
     if (!streams) continue
 
     const log = new Collection<LogItem>()
-    const buffer = new Dictionary<boolean>()
     streams.forEach((stream: Stream) => {
       if (stream.channel) {
         const channel = data.channelsKeyById.get(stream.channel)
@@ -53,15 +64,16 @@ async function main() {
         }
       }
 
-      const duplicate = stream.url && buffer.has(stream.url)
-      if (duplicate) {
+      const isDuplicate = stream.url && buffer.has(stream.url)
+      if (isDuplicate) {
+        const origin = buffer.get(stream.url)
         log.add({
-          type: 'warning',
+          type: 'error',
           line: stream.getLine(),
-          message: `"${stream.url}" is already on the playlist`
+          message: `"${stream.url}" is already in the "${origin.filepath}"`
         })
       } else {
-        buffer.set(stream.url, true)
+        buffer.set(stream.url, stream)
       }
 
       if (!isURI(stream.url)) {
