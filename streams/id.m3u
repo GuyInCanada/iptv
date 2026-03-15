@@ -71,6 +71,8 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DMTVMalang.id@SD",DM TV Malang
 https://e.siar.us/live/dmtv.m3u8
+#EXTINF:-1 tvg-id="DMITV.id@SD",DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id@SD",Duta TV (360p) [Not 24/7]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id@SD",Efarina TV (720p)
@@ -252,8 +254,6 @@ https://surautv.siar.us/live/surautv.m3u8
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTINF:-1 tvg-id="TATV.id@SD",TATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TawafTV.id@SD",Tawaf TV (576i)
-https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTINF:-1 tvg-id="TegarTVLampung.id@SD",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]

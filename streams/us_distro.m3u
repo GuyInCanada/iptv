@@ -184,6 +184,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="",Romance Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8?ads.vf=PiSO0lq9aTW
+#EXTINF:-1 tvg-id="SchwabNetwork.us@SD",Schwab Network (1080p)
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Screams TV by Trinian (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/screams-tv-by-trinian/manifest.m3u8?ads.vf=BV6bDbgQvOm
@@ -235,8 +237,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="",Swerve Combat (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8?ads.vf=NuHTMeglt2e
-#EXTINF:-1 tvg-id="TDAmeritradeNetwork.us@SD",TD Ameritrade Network (1080p)
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",The Family TV Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/94N3POFVM3G76E3IZ2WY/hls3/now,-1m/m.m3u8?ads.vf=ejOc5kq_F3u
