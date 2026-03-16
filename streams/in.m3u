@@ -1235,8 +1235,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0567/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0578/master.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD",Super Hungama (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0410/master.m3u8
-#EXTINF:-1 tvg-id="SunTV.in@HD",Sun TV HD (1080p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0590/master.m3u8
 #EXTINF:-1 tvg-id="SunTV.in@SD",Sun TV (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0532/master.m3u8
 #EXTINF:-1 tvg-id="SunNews.in@SD",Sun News (576p)
@@ -1401,3 +1399,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0357/master.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SalaamTV.in@SD",Salaam TV (720p)
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in@SD",Sony Aath (576p)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (576p)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (576p)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8

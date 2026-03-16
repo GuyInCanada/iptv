@@ -53,3 +53,7 @@ http://176.67.210.1/hls/kanalm.m3u8
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-id="TVPirot.rs@SD",TV Pirot (240p) [Not 24/7]
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova.rs@SD",Nova (1080p)
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:-1 tvg-id="RTS3.rs@SD",RTS 3 (720p)
+http://185.81.240.65:15000/udp/233.233.233.36:12000
