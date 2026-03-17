@@ -506,3 +506,5 @@ https://soportedvb.click:3442/live/entunotvlive.m3u8
 https://cnn.hostlagarto.com/televida/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do@SD",Color Vision (480p) [Not 24/7]
 http://38.159.232.166:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="VTVCanal32.do@SD",VTV Canal 32 (1080p) [Geo-blocked]
+https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8
