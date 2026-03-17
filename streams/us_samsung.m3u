@@ -131,8 +131,6 @@ https://d1gdoah3axw004.cloudfront.net/BuzzFeed_Celeb.m3u8
 https://d2tlbbjop5ksk2.cloudfront.net/BuzzFeed_Tasty.m3u8
 #EXTINF:-1 tvg-id="",BuzzFeed Unsolved (1080p)
 https://d1727vwt6h9ghr.cloudfront.net/BuzzFeed_Unsolved.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us@SD",BUZZR (1080p) [Geo-blocked]
-https://pb-zwgnik5g9oqng.akamaized.net/BUZZR.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us@SD",BYUtv (1080p)
 https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 #EXTINF:-1 tvg-id="",Caillou (720p)
