@@ -117,10 +117,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 http://103.250.28.74:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Filmazia.pk@SD",Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="GourmetNewsNetwork.pk@SD",Gourmet News Network (1080p)
-http://103.250.28.74:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="HumNews.pk@SD",Hum News (1080p)
-http://103.250.28.74:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="HumSitaray.pk@SD",Hum Sitaray (576p)
 http://103.250.28.74:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="Kay2HD.pk@SD",Kay2 HD (1080p)
@@ -189,3 +185,11 @@ http://103.250.28.74:8000/play/a00w/index.m3u8
 http://103.250.28.74:8000/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="WasebTV.pk@SD",Waseb TV (576p)
 http://103.250.28.74:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk@SD",Paighan TV (1080p)
+http://116.90.120.151:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="HumNews.pk@SD",Hum News (1080p)
+http://116.90.120.151:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="GeoKahani.pk@SD",Geo Kahani (576p)
+http://116.90.120.151:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="GeoNews.pk@SD",Geo News (576p)
+http://116.90.120.151:8000/play/a020/index.m3u8

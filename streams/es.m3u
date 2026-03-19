@@ -73,8 +73,6 @@ https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="Atrescine.es@SD",Atrescine (1080p)
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD",Atreseries Internacional (1080p)
-http://38.183.182.166:8000/play/a104/index.m3u8
 #EXTINF:-1 tvg-id="BailenTV.es@SD",Bailén TV (720p) [Not 24/7]
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es@SD",Barca TV

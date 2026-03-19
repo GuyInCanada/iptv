@@ -153,3 +153,9 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc115/tvp2hdra
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc129/tvp1hdraw/tvp1hdraw.m3u8
 #EXTINF:-1 tvg-id="PolsatNews2.pl@SD",Polsat News 2
 https://lb2-e1-91.pluscdn.pl/lv/1533809/392/hls/4cca941c/masterlist.m3u8
+#EXTINF:-1 tvg-id="TVP3Lodz.pl@SD",TVP 3 Lodz
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc030/tvp3warszawaraw/tvp3warszawaraw.m3u8
+#EXTINF:-1 tvg-id="SciFi.pl@SD",Sci Fi (1080p)
+http://116.90.120.151:8000/play/a0l0/index.m3u8
+#EXTINF:-1 tvg-id="E.pl@HD",E! HD (1080p)
+http://116.90.120.151:8000/play/a0kz/index.m3u8
