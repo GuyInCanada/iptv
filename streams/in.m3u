@@ -364,8 +364,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="HNN24x7.in@SD",HNN 24x7 (576p)
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="HungamaTV.in@SD",Hungama TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0408/master.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD",India Daily Live (1080p)
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in@SD",India News (1080p)
@@ -432,16 +430,12 @@ http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
 https://live.gulistannews.in/hls/jk.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD",Jonack TV (360p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD",Kalaignar Murasu (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0320/master.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD",Kalaignar Murasu (396p) [Not 24/7]
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in@SD",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD",Kalaignar Seithigal (720p)
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
-#EXTINF:-1 tvg-id="KalaignarTV.in@SD",Kalaignar TV (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0316/master.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD",Kalaignar TV (396p)
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="KalingaTV.in@SD",Kalinga TV (720p)
@@ -790,16 +784,10 @@ http://103.229.254.25:7001/play/a07a/index.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p)
 http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in@SD",Sony SAB (720p)
-http://103.229.254.25:7001/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="SonySAB.in@HD",Sony SAB HD (1080p)
-http://103.229.254.25:7001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD",Sony Sports Ten 2 HD (1080p)
 http://103.229.254.25:7001/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD",Sony Sports Ten 3 Hindi (576p)
 http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
-http://103.121.6.5:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="",Star Family (576p) [Not 24/7]
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@HD",Star Gold 2 HD (1080p)
@@ -828,10 +816,6 @@ http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
 http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in@SD",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (576p)
-http://103.229.254.25:7001/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
-http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD",Subhavaartha TV (720p)
@@ -1169,8 +1153,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0420/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0453/master.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in@SD",Star Pravah (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0466/master.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (576p)
-http://iptvcasomsapi.jprdigital.in/x-media/C0386/master.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in@SD",Star Maa (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8
 #EXTINF:-1 tvg-id="StarMaaMusic.in@SD",Star Maa Music (576p)
@@ -1291,3 +1273,15 @@ http://116.90.120.151:8000/play/a0j6/index.m3u8
 http://116.90.120.151:8000/play/a0il/index.m3u8
 #EXTINF:-1 tvg-id="AndpriveHD.in@SD",&prive HD (1080p)
 http://116.90.120.151:8000/play/a0it/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (720p)
+https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in@HD",Colors Cineplex HD (720p)
+https://padmaonline.duckdns.org:8088/ColorsCineplexHD/index.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (720p)
+https://padmaonline.duckdns.org:8088/SETHD/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (720p)
+https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in@HD",Colors HD (720p)
+https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in@SD",Asianet Middle East (576p)
+https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
