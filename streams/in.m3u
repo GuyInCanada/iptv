@@ -360,8 +360,6 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in@SD",KTV Bangla (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-id="KTV.in@HD",KTV HD (1080p)
-http://103.121.6.5:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in@SD",Life TV (720p)
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="LivingIndiaNews.in@SD",Living India News (1080p)
@@ -684,10 +682,6 @@ https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 tvg-id="SudarshanNews.in@SD",Sudarshan News (1080p)
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (720p)
-http://103.161.153.165:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="SunNeo.in@SD",Sun Neo (576p)
-http://163.61.227.29:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in@SD",Super Hungama (576p)
 http://103.161.153.165:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV.in@SD",Suriyan TV (576p)
