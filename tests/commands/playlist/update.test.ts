@@ -8,7 +8,7 @@ const ENV_VAR =
 
 beforeEach(() => {
   fs.emptyDirSync('tests/__data__/output')
-  fs.copySync('tests/__data__/input/playlist_update', 'tests/__data__/output/streams')
+  fs.copySync('tests/__data__/input/playlist_update/streams', 'tests/__data__/output/streams')
 })
 
 describe('playlist:update', () => {
