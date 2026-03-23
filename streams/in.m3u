@@ -1021,3 +1021,19 @@ https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (480p)
 http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 tvg-id="TamilJanam.in@SD",Tamil Janam (576p)
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 tvg-id="SubhartiTV.in@SD",Subharti TV (576p)
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-id="SohamTV.in@SD",Soham TV (576p)
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in@SD",Sairam TV (576p)
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SachBedhadak.in@SD",Sach Bedhadak (576p)
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+#EXTINF:-1 tvg-id="RajMusixKannada.in@SD",Raj Musix Kannada (576p)
+https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-id="NKRTVKannada.in@SD",NKR TV Kannada (576p)
+https://mumt05.tangotv.in/NKRTV/index.m3u8
+#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in@SD",Onkar Only Truth TV (576p)
+https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
