@@ -7,7 +7,7 @@ https://s.emisoras.tv:8081/atv/index.m3u8
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaHonduras.hn@SD",Azteca Honduras (720p)
 https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
-#EXTINF:-1 tvg-id="AztecaHonduras.hn@SD",Azteca Honduras [Geo-blocked]
+#EXTINF:-1 tvg-id="APlus.mx@SD",A+ [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn@SD",Campus TV (480p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
