@@ -127,12 +127,6 @@ https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Tekyemadahi.ir@SD",Tekyemadahi
 https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewebionSport.ir@SD",Telewebion Sport
-https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewebionSport2.ir@SD",Telewebion Sport 2
-https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewebionSport3.ir@SD",Telewebion Sport 3
-https://ncdn.telewebion.ir/sport3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVANava.ir@SD",TVA Nava
 https://ncdn.telewebion.ir/nava/live/playlist.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir@SD",Varzesh TV
