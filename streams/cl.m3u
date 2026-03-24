@@ -185,3 +185,5 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV.cl@SD",LTV (2160p) [Not 24/7]
 https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8
+#EXTINF:-1 tvg-id="TVN.cl@SD",TVN (1080p)
+http://217.26.190.76:8888/play/a0m6/index.m3u8

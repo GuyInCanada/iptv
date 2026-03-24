@@ -59,3 +59,5 @@ https://bozztv.com/rongo/rongo-News24HD/index.m3u8
 https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
 #EXTINF:-1 tvg-id="IndependentTV.bd@SD",Independent TV (1080p)
 https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.bd@SD",Ekhon TV (1080p)
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
