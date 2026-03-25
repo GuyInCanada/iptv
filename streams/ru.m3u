@@ -13,9 +13,9 @@ https://kino-stream.online/hls/DTRMUSIC1.m3u8
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 tvg-id="DTRZona2.ru@HD",DTR Zona 2 (720p)
 https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-id="Kino24.ru@SD",Kino 24
+#EXTINF:-1 tvg-id="Kino24.ru@SD",Kino 24 (720p)
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="Pro100TV.ru@SD",Pro100TV
+#EXTINF:-1 tvg-id="Pro100TV.ru@SD",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
@@ -33,7 +33,7 @@ https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru@SD",VIVA Russia (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
-#EXTINF:-1 tvg-id="AISTTV.ru@SD",Аист ТВ
+#EXTINF:-1 tvg-id="AISTTV.ru@SD",Аист ТВ (1080p)
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Aris24.ru@SD",Арис 24 (720p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
@@ -45,7 +45,7 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Belgorod24.ru@SD",Белгород 24 (1080p)
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 tvg-id="BigAsia.ru@SD",Большая Азия
+#EXTINF:-1 tvg-id="BigAsia.ru@SD",Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BST.ru@SD",БСТ 24 (Братск)
 http://bst.bratsk.ru/hls/bst2/index.m3u8
@@ -55,7 +55,7 @@ https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/play
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru@SD",Волга (HD)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-id="Volgograd24.ru@SD",Волгоград 24
+#EXTINF:-1 tvg-id="Volgograd24.ru@SD",Волгоград 24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="GuberniaSamara.ru@SD",Губерния (Самара) (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -65,7 +65,7 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru@SD",Звезда (1080p) [Not 24/7]
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="Izvestia.ru@SD",Известия
+#EXTINF:-1 tvg-id="Izvestia.ru@SD",Известия (1080p)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel16.ru@SD",К16 (Саров) (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
@@ -73,9 +73,9 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="Konniymir.ru@SD",Конный Мир
 https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
-#EXTINF:-1 tvg-id="RedLine.ru@SD",Красная линия
+#EXTINF:-1 tvg-id="RedLine.ru@SD",Красная линия (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 tvg-id="RedLine.ru@SD",Красная линия
+#EXTINF:-1 tvg-id="RedLine.ru@SD",Красная линия (288p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
 #EXTINF:-1 tvg-id="Crimea24.ru@SD",Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
@@ -119,13 +119,13 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания (576p)
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания ТВ
+#EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD",Надежда (720p)
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nano.ru@HD",Нано ТВ HD
+#EXTINF:-1 tvg-id="Nano.ru@HD",Нано ТВ HD (576p)
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD",Наука
 https://vod.tuva.ru/nauka2/index.m3u8
@@ -143,17 +143,17 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OSN.ru@SD",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD",Открытый мир. Здоровье
+#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD",Открытый мир. Здоровье (576p)
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="Patriot.ru@SD",Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="PerviyKrymskiy.ru@SD",Первый Крымский (720p)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Prima.ru@SD",Прима (1080p)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 tvg-id="Friday.ru@SD",Пятница!
+#EXTINF:-1 tvg-id="Friday.ru@SD",Пятница! (576p)
 https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="GovoritMoskva.ru@SD",Радио Говорит Москва (Веб-камера) (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
@@ -187,9 +187,9 @@ https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 tvg-id="SmileTV.ru@SD",Смайл ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="Solnce.ru@SD",Солнце
+#EXTINF:-1 tvg-id="Solnce.ru@SD",Солнце (576p)
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 tvg-id="Sochi24.ru@SD",Сочи 24 HD
+#EXTINF:-1 tvg-id="Sochi24.ru@SD",Сочи 24 HD (720p)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru@SD",Союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -205,9 +205,9 @@ https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.ru@SD",ТВК 24 (576p)
 https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 tvg-id="TvoeTV.ru@SD",Твое TV HD
+#EXTINF:-1 tvg-id="TvoeTV.ru@SD",Твое TV HD (1080p)
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD",Твое ТВ Юмор
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD",Твое ТВ Юмор (1080p)
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="86.ru@SD",Телеканал 86 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8
@@ -219,7 +219,7 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1 tvg-id="TKR.ru@SD",ТКР (Рязань) (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Tolk.ru@HD",Толк HD
+#EXTINF:-1 tvg-id="Tolk.ru@HD",Толк HD (720p)
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNRussia.ru@SD",Три Ангела (720p)
 https://hls.tv.3angels.ru/stream.m3u8

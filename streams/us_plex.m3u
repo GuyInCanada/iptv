@@ -37,7 +37,7 @@ https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Timeline.us@SD",Timeline (1080p)
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today
+#EXTINF:-1 tvg-id="USATODAY.us@SD",USA Today (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk@SD",Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8

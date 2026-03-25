@@ -23,7 +23,7 @@ https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
 http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 #EXTINF:-1 tvg-id="LaUne.be@SD",La Une (1080p)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-id="LN24.be@SD",LN24
+#EXTINF:-1 tvg-id="LN24.be@SD",LN24 (1080p)
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-id="Matele.be@SD",MaTele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8

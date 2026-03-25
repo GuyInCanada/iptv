@@ -103,8 +103,6 @@ https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Film
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Film+
-https://jmp2.uk/stvp-ITAJ38000055E?.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Film Azione
 https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Film Azione+
@@ -121,6 +119,8 @@ https://jmp2.uk/stvp-ITAJ3800009J1?.m3u8
 https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Film Thriller
 https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-id="",Pluto TV Film+
+https://jmp2.uk/stvp-ITAJ38000055E?.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@IT",Pluto TV Horror
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Legami Letali
@@ -147,12 +147,12 @@ https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
 https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Serie
 https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Serie+
-https://jmp2.uk/stvp-ITAJ3800007P8?.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Serie Crime
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Serie Sci-Fi
 https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="",Pluto TV Serie+
+https://jmp2.uk/stvp-ITAJ3800007P8?.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Shore
 https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
 #EXTINF:-1 tvg-id="",Pluto TV Snooker 900

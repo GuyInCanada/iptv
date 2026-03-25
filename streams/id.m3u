@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AlBahjahTV.id@SD",Al-Bahjah TV (1080p)
+http://202.150.161.117:8000/play/AlBahjahTV
 #EXTINF:-1 tvg-id="AlImanTV.id@SD",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id@SD",Alwafa Tarim TV (Am Media) (720p)
@@ -18,6 +20,8 @@ https://hgmtv.com:19360/asthatv/asthatv.m3u8
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AtambuaTV.id@HD",Atambua TV (720p)
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BaliTV.id@SD",Bali TV (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #EXTINF:-1 tvg-id="BalikpapanTV.id@SD",Balikpapan TV (720p)
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id@SD",Bandung TV (360p)
@@ -30,7 +34,7 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id@SD",Batam TV (480p) [Not 24/7]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD",BeritaSatu English
+#EXTINF:-1 tvg-id="BeritaSatuEnglish.id@SD",BeritaSatu English (1080p)
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD",Biznet Adventure (1080p)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -84,6 +88,8 @@ http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id@SD",Garuda TV (1080p)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="GTV.id@SD",GTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 tvg-id="HumaBetangTV.id@SD",Huma Betang TV (720p) [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id@SD",I Am Channel (576p)
@@ -91,11 +97,17 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="",IDTV (720p) [Not 24/7]
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="IDXChannel.id@SD",IDX Channel (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD",Indonesiana.TV (720p)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 tvg-id="iNews.id@SD",iNews (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="IzzahTV.id@SD",Izzah TV (480p)
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-id="JakTV.id@SD",Jak TV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 #EXTINF:-1 tvg-id="JakartaGlobeNewsChannel.id@SD",Jakarta Globe News Channel (1080p)
 https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id@SD",Jambi TV (480p) [Not 24/7]
@@ -120,6 +132,8 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.id@SD",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD",JTV (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="JTV.id@SD",JTV (480p)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Kediri",JTV Kediri
@@ -133,6 +147,8 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.id@SD",KTV (720p)
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-id="KTV.id@SD",KTV (576p)
+http://103.66.62.83:8000/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="KTV.id@SD",KTV (576i)
 http://175.158.57.130:8888/stream/channelid/187512145
 #EXTINF:-1 tvg-id="LingkarTV.id@SD",Lingkar TV
@@ -160,11 +176,17 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id@SD",MGS TV (720p) [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id@SD",MNCTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-id="MQTV.id@SD",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTATV.id@SD",MTA TV (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #EXTINF:-1 tvg-id="MusicInformationChannel.id@SD",Music Information Channel (720p)
 #EXTVLCOPT:http-referrer=https://mic-indo.com/live
 https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1 tvg-id="NabawiTV.id@SD",Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD",Nusantara TV (1080p)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id@SD",Online TV Nusantara (720p) [Not 24/7]
@@ -181,6 +203,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id@SD",Puja TV Aceh (1080p) [Not 24/7]
 https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD",Radar Lampung TV (480p)
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD",Rajawali TV (576i)
@@ -192,6 +217,10 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD",Rakyat Bengkulu TV (720p)
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch59.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@SD",RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@HD",RCTI HD (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-id="RCTV.id@SD",RCTV (576p) [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id@SD",Riau TV (1080p) [Not 24/7]
@@ -221,6 +250,10 @@ https://selaparangtv.siar.us/live/selaparangtv.m3u8
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="Simpang5TV.id@SD",Simpang5 TV (360p) [Not 24/7]
 http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SinPoTV.id@HD",Sin Po TV (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-id="SindoNewsTV.id@SD",Sindo News TV
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p) [Not 24/7]
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SMTV.id@SD",SMTV (720p)
@@ -237,9 +270,15 @@ https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id@Cianjur",Stara TV Cianjur (720p)
 #EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
 https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Jakarta",Stara TV Jakarta (1080p)
+#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
+https://jakarta.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id@Malang",Stara TV Malang (1080p)
 #EXTVLCOPT:http-referrer=https://malang.staratv.id/
 https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Parahyangan",Stara TV Parahyangan (720p)
+#EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
+https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="STV.id@SD",STV (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SultraTV.id@SD",Sultra TV (720p) [Not 24/7]
@@ -266,6 +305,10 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMu.id@SD",TV Mu (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="TVMu.id@SD",TV Mu (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
+#EXTINF:-1 tvg-id="TVMUI.id@SD",TV MUI (540p)
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
 #EXTINF:-1 tvg-id="TVTabalong.id@SD",TV Tabalong (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKU.id@SD",TVKU (720p)
@@ -338,7 +381,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestPapua",TVRI West Papua (1080p)
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD",TVRI World
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD",TVRI World (1080p)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@Yogyakarta",TVRI Yogyakarta (720p)
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
@@ -350,6 +393,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 https://ubmedcom.siar.us/live/ubmedcom.m3u8
 #EXTINF:-1 tvg-id="UGTV.id@SD",UGTV (720p)
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="VTV.id@SD",VTV (1080p)
+http://103.66.62.83:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="VTV.id@SD",VTV (720p)
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -357,48 +402,3 @@ https://flv.intechmedia.net/live/ch107.m3u8
 http://175.158.57.130:8888/stream/channelid/191534731
 #EXTINF:-1 tvg-id="WesalTV.id@SD",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-#EXTINF:-1 tvg-id="KTV.id@SD",KTV (576p)
-http://103.66.62.83:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="AlBahjahTV.id@SD",Al-Bahjah TV (1080p)
-http://202.150.161.117:8000/play/AlBahjahTV
-#EXTINF:-1 tvg-id="MTATV.id@SD",MTA TV
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-#EXTINF:-1 tvg-id="MNCTV.id@SD",MNCTV (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-id="JTV.id@SD",JTV
-https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
-#EXTINF:-1 tvg-id="JakTV.id@SD",Jak TV (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-#EXTINF:-1 tvg-id="iNews.id@SD",iNews (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-id="IDXChannel.id@SD",IDX Channel (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
-#EXTINF:-1 tvg-id="GTV.id@SD",GTV (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 tvg-id="BaliTV.id@SD",Bali TV
-https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
-#EXTINF:-1 tvg-id="StaraTV.id@Parahyangan",Stara TV Parahyangan (720p)
-#EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
-https://parahyangan.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Jakarta",Stara TV Jakarta (1080p)
-#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
-https://jakarta.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="VTV.id@SD",VTV (1080p)
-http://103.66.62.83:8000/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="TVMu.id@SD",TV Mu
-https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
-#EXTINF:-1 tvg-id="TVMUI.id@SD",TV MUI
-https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD",Sindo News TV
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-#EXTINF:-1 tvg-id="SinPoTV.id@HD",Sin Po TV
-https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#EXTINF:-1 tvg-id="RCTI.id@SD",RCTI
-http://103.66.62.83:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="RCTI.id@HD",RCTI HD (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 tvg-id="NabawiTV.id@SD",Nabawi TV (720p)
-http://202.150.161.117:8000/play/NabawiTV
-#EXTINF:-1 tvg-id="RadarLampungTV.id@SD",Radar Lampung TV (480p)
-#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
-https://www.streaming.radartv.co.id/hls/test.m3u8

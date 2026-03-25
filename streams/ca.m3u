@@ -83,13 +83,13 @@ http://cdn12.henico.net:8080/live/dncal/index.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-id="EETTV.ca@SD",EET TV (1080p) [Not 24/7]
 https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="EMCITVAmerica.ca@SD",EMCI TV America
+#EXTINF:-1 tvg-id="EMCITVAmerica.ca@SD",EMCI TV America (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca@SD",Erfan Halgheh TV (720p)
 https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca@SD",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD",Gaunda Punjab TV
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD",Gaunda Punjab TV (720p)
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GHCanadaTV.ca@SD",GH Canada TV
 https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
@@ -99,7 +99,7 @@ https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto TV (1080p)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="HyderTV.ca@SD",Hyder TV
+#EXTINF:-1 tvg-id="HyderTV.ca@SD",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca@SD",ICI Montreal (720p)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
@@ -131,10 +131,10 @@ https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca@SD",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="IIPCTV.ca@SD",IIPC TV (720p)
+https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca@SD",IIPC TV (480p) [Geo-blocked]
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IIPCTV.ca@SD",IIPC TV
-https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
 #EXTINF:-1 tvg-id="iTVAfrobeatsMusic.ca@HD",iTV Afrobeats Music
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iTVArabicMusic.ca@HD",iTV Arabic Music
@@ -179,9 +179,9 @@ https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
 #EXTINF:-1 tvg-id="",Noovo Téléréalités (1080p)
 https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
-#EXTINF:-1 tvg-id="",Now TV 94.3FM Winnipeg (CHNW-FM)
+#EXTINF:-1 tvg-id="",Now TV 94.3FM Winnipeg (CHNW-FM) (616p)
 https://videostream.jpbgdigital.com/CHNWTV.m3u8
-#EXTINF:-1 tvg-id="CKNOFM.ca@SD",Now TV 102.3FM Edmonton (CKNO-FM)
+#EXTINF:-1 tvg-id="CKNOFM.ca@SD",Now TV 102.3FM Edmonton (CKNO-FM) (616p)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="NTVPlus.ca@SD",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
@@ -201,9 +201,9 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://primeasia.selfip.net/Samsung/index.m3u8
 #EXTINF:-1 tvg-id="PrimeCanadaTV.ca@SD",Prime Canada TV (720p) [Not 24/7]
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD",Probashi TV News
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD",Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-id="QuoVadisTV.ca@SD",Quo Vadis TV
+#EXTINF:-1 tvg-id="QuoVadisTV.ca@SD",Quo Vadis TV (720p)
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca@SD",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
@@ -221,13 +221,15 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilEntertainmentTelevision.ca@HD",Tamil Entertainment Television (1080p)
 https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD",TamilVision-TV (1080p)
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="TCFTV.ca@SD",TCF TV
 http://66.11.33.44:8081/live/TCF/playlist.m3u8
 #EXTINF:-1 tvg-id="TSC.ca@SD",Today's Shopping Choice (TSC) (720p)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca@SD",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD",TSN The Ocho
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TV16Toronto.ca@SD",TV 16 Toronto (720p) [Not 24/7]
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
@@ -243,5 +245,3 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD",Zee TV Canada (1080p)
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD",TamilVision-TV (1080p)
-https://live.cmr24.fm/TVI/HD/chunks.m3u8

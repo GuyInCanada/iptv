@@ -6,6 +6,18 @@ https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="BHT1.ba@SD",BHT 1 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD",Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-id="Hayat.ba@SD",Hayat (1080p)
+http://158.180.39.89:5033/hayat.m3u8
+#EXTINF:-1 tvg-id="HayatFolk.ba@SD",Hayat Folk
+http://158.180.39.89:5033/folk.m3u8
+#EXTINF:-1 tvg-id="HayatMusic.ba@SD",Hayat Music (1080p)
+http://158.180.39.89:5033/music.m3u8
+#EXTINF:-1 tvg-id="HayatPlus.ba@SD",Hayat Plus (1080p)
+http://158.180.39.89:5033/hayatplus.m3u8
+#EXTINF:-1 tvg-id="Hayatovci.ba@SD",Hayatovci (1080p)
+http://158.180.39.89:5033/hayatovci.m3u8
 #EXTINF:-1 tvg-id="Kanal6.ba@SD",Kanal 6 (288p)
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
 #EXTINF:-1 tvg-id="",Malta (720p) [Not 24/7]
@@ -34,15 +46,3 @@ https://live.tv-m.net/hls/stream.m3u8
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-id="TVSlonExtra.ba@SD",TV Slon Extra (1080p) [Not 24/7]
 http://31.47.0.130:8082
-#EXTINF:-1 tvg-id="Federalnatelevizija.ba@SD",Federalna televizija (720p)
-http://185.81.240.65:15000/udp/233.233.233.39:12000
-#EXTINF:-1 tvg-id="Hayatovci.ba@SD",Hayatovci (1080p)
-http://158.180.39.89:5033/hayatovci.m3u8
-#EXTINF:-1 tvg-id="HayatPlus.ba@SD",Hayat Plus (1080p)
-http://158.180.39.89:5033/hayatplus.m3u8
-#EXTINF:-1 tvg-id="HayatMusic.ba@SD",Hayat Music (1080p)
-http://158.180.39.89:5033/music.m3u8
-#EXTINF:-1 tvg-id="HayatFolk.ba@SD",Hayat Folk
-http://158.180.39.89:5033/folk.m3u8
-#EXTINF:-1 tvg-id="Hayat.ba@SD",Hayat (1080p)
-http://158.180.39.89:5033/hayat.m3u8

@@ -57,7 +57,7 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="INews.iq@SD",iNEWS TV (1080p)
 https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IraqFuture.iq@SD",Iraq Future
+#EXTINF:-1 tvg-id="IraqFuture.iq@SD",Iraq Future (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Kurdistan24.iq@SD",Kurdistan 24 (720p)
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8

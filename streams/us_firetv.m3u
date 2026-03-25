@@ -19,7 +19,7 @@ https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
 https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@US",Fuel TV (1080p) [Geo-blocked]
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto
+#EXTINF:-1 tvg-id="GustoTV.ca@SD",Gusto (1080p)
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines",INTRAVEL (1080p) [Geo-blocked]
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
@@ -31,21 +31,21 @@ https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
 https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBC Chicago News
+#EXTINF:-1 tvg-id="",NBC Chicago News (1080p)
 https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBCU Telemundo Florida
+#EXTINF:-1 tvg-id="",NBCU Telemundo Florida (1080p)
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBCU Telemundo North East
+#EXTINF:-1 tvg-id="",NBCU Telemundo North East (1080p)
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBCU Telemundo Texas
+#EXTINF:-1 tvg-id="",NBCU Telemundo Texas (1080p)
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NBCU Telemundo West
+#EXTINF:-1 tvg-id="",NBCU Telemundo West (1080p)
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHL
+#EXTINF:-1 tvg-id="",NHL (1080p)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV (1080p)
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider (1080p)
 https://pac12-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD",PBS Antiques Roadshow (1080p) [Geo-blocked]
 https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
@@ -55,7 +55,7 @@ https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m
 https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Power Rangers (1080p) [Geo-blocked]
 https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid
+#EXTINF:-1 tvg-id="SportsGrid.us@SD",SportsGrid (1080p)
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",T2 Tennis Channel (1080p)
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8

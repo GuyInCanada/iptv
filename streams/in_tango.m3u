@@ -11,7 +11,7 @@ https://mumt01.tangotv.in/AADINATHTV/index.m3u8
 https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD",All Time Movies (576p)
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",Anandam Abi TV
+#EXTINF:-1 tvg-id="",Anandam Abi TV (576p)
 https://mumt02.tangotv.in/ABITV/index.m3u8
 #EXTINF:-1 tvg-id="",Anandam TV
 https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
@@ -59,10 +59,10 @@ https://mumt04.tangotv.in/CVRNEWS/index.m3u8
 https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="Dabangg.in@SD",Dabangg (576p)
 https://mumt01.tangotv.in/DABANGG/index.m3u8
-#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
-https://mumt04.tangotv.in/DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="Darshan24.in@SD",Darshan 24 (576p)
 https://mumt05.tangotv.in/DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-id="DarshanaTV.in@SD",Darshana TV (576p)
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD",DD Assam (576p)
 https://mumt05.tangotv.in/DDASSAM/index.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in@SD",DD Bangla (576p)
@@ -123,7 +123,7 @@ https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8
 https://mumt02.tangotv.in/EVERGREENHITS/index.m3u8
 #EXTINF:-1 tvg-id="FaktMarathi.in@SD",Fakt Marathi (576p)
 https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
-#EXTINF:-1 tvg-id="",Fast Mix
+#EXTINF:-1 tvg-id="",Fast Mix (576p)
 https://mumt01.tangotv.in/FASTMIX/index.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in@SD",Fateh TV (576p)
 https://mumt05.tangotv.in/FATEHTV/index.m3u8
@@ -235,13 +235,13 @@ https://mumt02.tangotv.in/MADHATV/index.m3u8
 https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
 #EXTINF:-1 tvg-id="Maiboli.in@SD",Maiboli (576p)
 https://mumt01.tangotv.in/MAIBOLI/index.m3u8
-#EXTINF:-1 tvg-id="",Maina TV
+#EXTINF:-1 tvg-id="",Maina TV (576p)
 https://mumt03.tangotv.in/MAINATV/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in@SD",Mastiii (576p)
 https://mumt02.tangotv.in/MASTIII/index.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD",Mathrubhumi News (576p)
 https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Matti TV
+#EXTINF:-1 tvg-id="",Matti TV (576p)
 https://mumt03.tangotv.in/MATTITV/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in@SD",MBC TV (576p)
 https://mumt03.tangotv.in/MBCTV/index.m3u8
@@ -267,7 +267,7 @@ https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
 https://mumt01.tangotv.in/OMTV/index.m3u8
 #EXTINF:-1 tvg-id="",Padharo Sa
 https://mumt03.tangotv.in/PADHAROSA/index.m3u8
-#EXTINF:-1 tvg-id="",Pankh
+#EXTINF:-1 tvg-id="",Pankh (576p)
 https://mumt04.tangotv.in/PANKH/index.m3u8
 #EXTINF:-1 tvg-id="ParasGold.in@SD",Paras Gold (576p)
 https://mumt04.tangotv.in/PARASGOLD/index.m3u8
@@ -283,11 +283,11 @@ https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
 https://mumt02.tangotv.in/PUNJABIBEATS/index.m3u8
 #EXTINF:-1 tvg-id="",Punjabi Music HD
 https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
-#EXTINF:-1 tvg-id="",Punjabi TV
+#EXTINF:-1 tvg-id="",Punjabi TV (720p)
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in@SD",Puthuyugam TV (576p)
 https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Ragni TV
+#EXTINF:-1 tvg-id="",Ragni TV (576p)
 https://mumt04.tangotv.in/RAGNITV/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixMalayalam.in@SD",Raj Musix Malayalam (576p)
 https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
@@ -303,7 +303,7 @@ https://mumt01.tangotv.in/RAMDHENU/index.m3u8
 https://mumt01.tangotv.in/RANG/index.m3u8
 #EXTINF:-1 tvg-id="Rengoni.in@SD",Rengoni (576p)
 https://mumt05.tangotv.in/RENGONI/index.m3u8
-#EXTINF:-1 tvg-id="",Saang TV
+#EXTINF:-1 tvg-id="",Saang TV (720p)
 https://mumt02.tangotv.in/SAANGTV/index.m3u8
 #EXTINF:-1 tvg-id="SadhnaPlusNews.in@SD",Sadhna Plus News (576p)
 https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
@@ -311,7 +311,7 @@ https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
 https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD",Shemaroo Umang (720p)
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
-#EXTINF:-1 tvg-id="SindhTV.pk@SD",Sindh TV
+#EXTINF:-1 tvg-id="SindhTV.pk@SD",Sindh TV (576p)
 https://mumt01.tangotv.in/SINDHTV/index.m3u8
 #EXTINF:-1 tvg-id="SiriKannada.in@SD",Siri Kannada (576p)
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
@@ -323,7 +323,7 @@ https://mumt03.tangotv.in/TADKA/index.m3u8
 https://mumt02.tangotv.in/THANTHIONE/index.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in@SD",Unique TV (576p)
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
-#EXTINF:-1 tvg-id="",UTV Anandam
+#EXTINF:-1 tvg-id="",UTV Anandam (576p)
 https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
 #EXTINF:-1 tvg-id="VasanthTV.in@SD",Vasanth TV (576p)
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
