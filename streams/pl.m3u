@@ -241,3 +241,19 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc101/redcarp
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc006/viasattruecrimeraw/viasattruecrimeraw.m3u8
 #EXTINF:-1 tvg-id="ZoomTV.pl@SD",Zoom TV
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc005/zoomtvhdraw/zoomtvhdraw.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl@SD",National Geographic Wild
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.mpd
+#EXTINF:-1 tvg-id="NationalGeographic.pl@SD",National Geographic
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc103/nationalgeographichdraw/nationalgeographichdraw.mpd
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl@SD",National Geographic Wild
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc104/nationalgeographicwildhdraw/nationalgeographicwildhdraw.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.pl@SD",National Geographic
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/nationalgeographichdraw/nationalgeographichdraw.m3u8
+#EXTINF:-1 tvg-id="TBNPolska.pl@SD",TBN Polska
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc018/tbnpolskaraw/tbnpolskaraw.m3u8
+#EXTINF:-1 tvg-id="TVToya.pl@SD",TV Toya
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc130/toyatvraw/toyatvraw.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD",Polsat Viasat Explore
+https://liveovh009.cda.pl/HXPcTCG-lz53Xv9hbHIO3w/1753762848/3480440/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD",Polsat Viasat History
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.m3u8
