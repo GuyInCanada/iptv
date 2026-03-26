@@ -2,10 +2,10 @@ import { IssueLoader, PlaylistParser } from '../../core'
 import { Playlist, Issue, Stream } from '../../models'
 import { loadData, data as apiData } from '../../api'
 import { Logger, Collection } from '@freearhey/core'
+import { isURI, getStreamInfo } from '../../utils'
 import { Storage } from '@freearhey/storage-js'
 import { STREAMS_DIR } from '../../constants'
 import * as sdk from '@iptv-org/sdk'
-import { isURI } from '../../utils'
 
 const processedIssues = new Collection()
 
@@ -136,23 +136,37 @@ async function addStreams({
   const requests = issues.filter(
     issue => issue.labels.includes('streams:add') && issue.labels.includes('approved')
   )
-  requests.forEach((issue: Issue) => {
+
+  for (const issue of requests.all()) {
     const data = issue.data
-    if (data.missing('stream_id') || data.missing('stream_url')) return
-    if (streams.includes((_stream: Stream) => _stream.url === data.getString('stream_url'))) return
+    if (data.missing('stream_id') || data.missing('stream_url')) continue
+    if (streams.includes((_stream: Stream) => _stream.url === data.getString('stream_url')))
+      continue
     const streamUrl = data.getString('stream_url') || ''
-    if (!isURI(streamUrl)) return
+    if (!isURI(streamUrl)) continue
 
     const streamId = data.getString('stream_id') || ''
     const [channelId, feedId] = streamId.split('@')
 
     const channel: sdk.Models.Channel | undefined = apiData.channelsKeyById.get(channelId)
-    if (!channel) return
+    if (!channel) continue
 
     const label = data.getString('label') || ''
-    const quality = data.getString('quality') || null
     const httpUserAgent = data.getString('http_user_agent') || null
     const httpReferrer = data.getString('http_referrer') || null
+
+    let quality = data.getString('quality') || null
+    if (!quality) {
+      const streamInfo = await getStreamInfo(streamUrl, { httpUserAgent, httpReferrer })
+
+      if (streamInfo) {
+        const height = streamInfo?.resolution?.height
+
+        if (height) {
+          quality = `${height}p`
+        }
+      }
+    }
 
     const stream = new Stream({
       channel: channelId,
@@ -169,5 +183,5 @@ async function addStreams({
 
     streams.add(stream)
     processedIssues.add(issue.number)
-  })
+  }
 }
