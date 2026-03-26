@@ -1152,3 +1152,5 @@ https://mumt05.tangotv.in/THEQ/index.m3u8
 https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central (1080p)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (480p)
+http://41.205.93.154/FOX-NEWS/index.m3u8
