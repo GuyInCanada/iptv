@@ -253,10 +253,10 @@ https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
 https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrime.us@UK",Pluto TV Crime
 https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8
-#EXTINF:-1 tvg-id="",Pluto TV Crime+
-https://jmp2.uk/stvp-GBAK3504516A?.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@SD",Pluto TV Crime Drama
 https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8
+#EXTINF:-1 tvg-id="",Pluto TV Crime+
+https://jmp2.uk/stvp-GBAK3504516A?.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCultFilms.us@UK",Pluto TV Cult Films
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.us@UK",Pluto TV Drama
