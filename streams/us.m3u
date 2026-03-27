@@ -1154,3 +1154,7 @@ https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (480p)
 http://41.205.93.154/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="SBNTVInternational.us@SD",SBN TV International (576p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc011/sbnraw/sbnraw.mpd
+#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc003/daystarraw/daystarraw.mpd

@@ -168,8 +168,6 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-id="MentariTV.id@SD",Mentari TV (576i)
 http://175.158.57.130:8888/stream/channelid/641828885
-#EXTINF:-1 tvg-id="MetroGlobeNetwork.id@SD",Metro Globe Network (1080p) [Not 24/7]
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MGITV.id@SD",MGI TV (720p) [Geo-blocked]
