@@ -342,7 +342,7 @@ https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="MusicTVGranada.es@SD",Music TV Granada (1080p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-id="",NatureTime (1080p)
+#EXTINF:-1 tvg-id="NatureTime.ca@SD",NatureTime (1080p)
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-id="NegociosTV.es@SD",Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8

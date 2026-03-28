@@ -165,11 +165,11 @@ https://aegis-cloudfront-1.tubi.video/3bda1ff3-ae32-45ab-ad49-f5e206511a70/playl
 https://live-manifest.production-public.tubi.io/live/8b8e2623-a616-4d17-b711-c0f0d2da7aa7/playlist.m3u8
 #EXTINF:-1 tvg-id="",Hagerty (1080p)
 https://aegis-cloudfront-1.tubi.video/1d7878db-0fc9-45fc-afb4-1355e66738ac/playlist.m3u8
-#EXTINF:-1 tvg-id="",Haunt TV (720p)
+#EXTINF:-1 tvg-id="HauntTV.ca@SD",Haunt TV (720p)
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
 #EXTINF:-1 tvg-id="",Her Sphere (720p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/804f9e76-e98c-41fa-8d75-5986879e2168/playlist.m3u8
-#EXTINF:-1 tvg-id="",Homeful (1080p)
+#EXTINF:-1 tvg-id="Homeful.ca@US",Homeful (1080p)
 https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playlist.m3u8
 #EXTINF:-1 tvg-id="",Horror by ALTER (1080p)
 https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8
@@ -291,7 +291,7 @@ https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playl
 https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playlist.m3u8
 #EXTINF:-1 tvg-id="",Torque (720p)
 https://live-manifest.production-public.tubi.io/live/2a57c116-5540-439a-8703-8a20e21c6ea5/playlist.m3u8
-#EXTINF:-1 tvg-id="",Total Crime (1080p)
+#EXTINF:-1 tvg-id="TotalCrime.ca@CA",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="",TV One Crime & Justice (1080p)
 https://aegis-cloudfront-1.tubi.video/66353608-b293-407b-9e79-d69ba8b17594/playlist.m3u8
