@@ -792,8 +792,6 @@ http://116.90.120.151:8000/play/a0he/index.m3u8
 http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in@SD",Star Gold Thrills (576p)
 http://116.90.120.151:8000/play/a0gw/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in@HD",Star Jalsha HD (720p)
-http://103.161.153.165:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaGold.in@SD",Star Maa Gold (576p)
 http://103.121.6.5:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
@@ -967,8 +965,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@SD",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in@HD",Zee Bangla HD (1080p)
-http://103.161.153.165:8000/play/zeebnhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in@SD",Zee Bangla Sonar (576p)
 http://103.229.254.25:7001/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBharat.in@SD",Zee Bharat (720p)
@@ -1043,3 +1039,7 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@Global",Zoom Global (720p)
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+#EXTINF:-1 tvg-id="SamacharPlus24x7.in@SD",Samachar Plus 24x7 (576p)
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD",StarPlus (1080p)
+http://103.229.254.25:7001/play/a09z/index.m3u8
