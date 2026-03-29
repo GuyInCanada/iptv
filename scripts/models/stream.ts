@@ -435,6 +435,7 @@ export class Stream extends sdk.Models.Stream {
       title: this.title,
       url: this.url,
       quality: this.quality,
+      label: this.label,
       user_agent: this.user_agent,
       referrer: this.referrer
     }
