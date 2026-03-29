@@ -508,3 +508,5 @@ https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZonavisionTV.do@SD",Zonavision TV [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+#EXTINF:-1 tvg-id="SuMundoTV.do@SD",Su Mundo TV (1080p) [Not 24/7]
+https://appapi.sumundotv.com/api/stream-proxy/4pf8yy3WF1xp1_tQ6yUYRIsbwyLc3qxDRcZAY_NLNDs/playlist.m3u8

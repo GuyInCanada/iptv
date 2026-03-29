@@ -234,3 +234,9 @@ https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="TeleVid.co@SD",Tele Vid (1080p)
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaCheverisimaRadioTV.co@SD",La Cheverisima Radio TV (720p)
+https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Telesangil.co@SD",Telesangil (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPyC.co@SD",Canal PyC (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
