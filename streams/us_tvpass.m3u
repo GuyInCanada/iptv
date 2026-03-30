@@ -85,10 +85,6 @@ https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="KCBSDT1.us@SD",KCBS-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KFMBDT2.us@SD",KFMB-DT2 (720p) [Not 24/7]
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-#EXTINF:-1 tvg-id="KFMBDT2.us@SD",KFMB-DT2 (360p) [Not 24/7]
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
 #EXTINF:-1 tvg-id="KNBCDT1.us@SD",KNBC-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 #EXTINF:-1 tvg-id="KNBCDT1.us@SD",KNBC-DT1 (360p) [Not 24/7]
